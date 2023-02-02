@@ -1,9 +1,15 @@
+
+    
+
+
 body {
     font-family: Arial, sans-serif;
     height: 100vh;
     overflow-y: scroll;
     background-color: #F7F7F7;
     padding: 20px;
+    background-image: url(https://images7.alphacoders.com/681/681190.jpg);
+    background-size: cover;
   }
   
   .whole {
